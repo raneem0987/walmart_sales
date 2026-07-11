@@ -8,7 +8,7 @@ An interactive **Power BI Dashboard** designed to analyze Walmart sales performa
 
 > Replace the image below with your dashboard screenshot.
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dash.png)
 
 ---
 
